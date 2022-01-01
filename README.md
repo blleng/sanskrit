@@ -17,7 +17,7 @@ For Sanskrit learning. Grammar, example sentences, reading passages, etc.
 ## Example Sentences
 Exercise examples mainly from *Elementarbuch der Sanskrit-Sprache* (Stenzler, 19. Auflage)
 
-- 326
+- [326](sentences/326.md)
 - 327
 - 328
 - 329
@@ -35,7 +35,6 @@ Exercise examples mainly from *Elementarbuch der Sanskrit-Sprache* (Stenzler, 19
 - 341
 - 342
 - 343
-- 344
 
 ## Reading Passages
 
